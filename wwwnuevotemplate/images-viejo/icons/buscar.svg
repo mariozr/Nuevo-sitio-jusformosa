@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 20 20"
+   version="1.1"
+   sodipodi:docname="busqueda.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="20"
+   height="20">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>lupa</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.6769719"
+     inkscape:cx="25.23"
+     inkscape:cy="25.23"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#65b4e1;}</style>
+  </defs>
+  <title
+     id="title6">lupa</title>
+  <g
+     id="g14"
+     transform="matrix(0.55794044,0,0,0.55794044,-4.1019554,-4.0852173)">
+    <path
+       style="fill:#000000"
+       id="path8"
+       d="m 40.85,36.69 -8.73,-8.61 a 13.66,13.66 0 0 1 -4.1,4.1 l 8.73,8.61 a 2.9,2.9 0 1 0 4.1,-4.1 z"
+       class="cls-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000"
+       id="path10"
+       d="M 32,20.43 A 11.6,11.6 0 1 0 20.37,32 11.6,11.6 0 0 0 32,20.43 Z m -11.6,8.7 a 8.7,8.7 0 1 1 8.7,-8.7 8.71,8.71 0 0 1 -8.73,8.7 z"
+       class="cls-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000"
+       id="path12"
+       d="m 20.37,14.65 a 5.78,5.78 0 0 0 -5.77,5.77 0.94,0.94 0 1 0 1.87,0 3.9,3.9 0 0 1 3.9,-3.9 0.94,0.94 0 0 0 0,-1.87 z"
+       class="cls-1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

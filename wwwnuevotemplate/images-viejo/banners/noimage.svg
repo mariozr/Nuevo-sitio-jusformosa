@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (0.92.4+202005162354+6c0c36e)"
+   sodipodi:docname="noimage.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="335.95042"
+     inkscape:cy="471.31509"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <g
+       id="g43"
+       transform="translate(0,6.9371231)"
+       style="fill:#808080">
+      <text
+         id="text12"
+         y="187.15976"
+         x="17.900843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.79942036px;line-height:125%;font-family:Womby;-inkscape-font-specification:Womby;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.68568325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Semi-Bold';letter-spacing:-0.5291667px;stroke-width:0.68568325px;fill:#808080"
+           y="187.15976"
+           x="17.900843"
+           id="tspan10"
+           sodipodi:role="line">PODER JUDICIAL FORMOSA</tspan><tspan
+           id="tspan14"
+           style="stroke-width:0.68568325px;fill:#808080"
+           y="203.17261"
+           x="17.900843"
+           sodipodi:role="line" /></text>
+      <text
+         id="text12-3"
+         y="199.57195"
+         x="29.920086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.79942036px;line-height:125%;font-family:Womby;-inkscape-font-specification:Womby;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.68568325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:-0.52916676px;stroke-width:0.68568325px;fill:#808080"
+           y="199.57195"
+           x="29.920086"
+           id="tspan10-6"
+           sodipodi:role="line">www.jusformosa.gob.ar</tspan><tspan
+           id="tspan14-7"
+           style="stroke-width:0.68568325px;fill:#808080"
+           y="216.0862"
+           x="29.920086"
+           sodipodi:role="line" /></text>
+    </g>
+  </g>
+</svg>

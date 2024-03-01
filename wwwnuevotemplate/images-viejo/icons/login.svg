@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 20 20"
+   version="1.1"
+   sodipodi:docname="login.svg"
+   width="20"
+   height="20"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>login</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="4.6769719"
+     inkscape:cx="3.2680454"
+     inkscape:cy="30.909133"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g25" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#12b5e1;}</style>
+  </defs>
+  <title
+     id="title6">login</title>
+  <g
+     id="g25"
+     style="fill:#000000"
+     transform="matrix(0.54242238,0,0,0.54242238,-3.6845481,-3.7124383)">
+    <g
+       id="g822"
+       transform="translate(-4.3055881e-6)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.36871636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="cls-1"
+         d="m 10.93,41.19 a 1.49,1.49 0 0 1 -1.39,-2 21.83,21.83 0 0 1 4.33,-6.85 14.68,14.68 0 0 1 10.93,-4.6 h 0.1 a 16,16 0 0 1 3.77,0.44 1,1 0 0 0 1.19,-0.66 v -0.1 a 1,1 0 0 0 -0.7,-1.16 18.14,18.14 0 0 0 -4.29,-0.5 h -0.1 a 16.62,16.62 0 0 0 -12.36,5.2 23.85,23.85 0 0 0 -4.69,7.37 3.54,3.54 0 0 0 -0.09,2.62 3.5,3.5 0 0 0 3.27,2.27 h 7.19 a 1,1 0 0 0 1,-1 v 0 a 1,1 0 0 0 -1,-1 z"
+         id="path8" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.36871636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="cls-1"
+         d="m 25.4,7.29 a 8.14,8.14 0 1 0 8.14,8.14 8.15,8.15 0 0 0 -8.14,-8.14 z m 6.3,8.14 a 6.3,6.3 0 1 1 -6.3,-6.3 6.31,6.31 0 0 1 6.3,6.3 z"
+         id="path10" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:#000000;stroke-width:0.36871636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="cls-1"
+         d="m 18.25,35.87 2.69,-2.67 a 0.85,0.85 0 0 1 0.6,-0.24 0.83,0.83 0 0 1 0.59,0.28 l 0.87,1 1,-1 a 0.79,0.79 0 0 1 0.59,-0.26 v 0 a 0.83,0.83 0 0 1 0.6,0.26 l 1,1.12 1.21,-1.15 A 0.8,0.8 0 0 1 28,33 a 0.77,0.77 0 0 1 0.57,0.25 0.82,0.82 0 0 1 0,1.16 l -1.83,1.69 a 0.81,0.81 0 0 1 -0.59,0.23 0.8,0.8 0 0 1 -0.58,-0.26 l -1,-1.09 -1,1 a 0.79,0.79 0 0 1 -0.6,0.26 v 0 a 0.85,0.85 0 0 1 -0.61,-0.28 l -0.89,-1 -1.47,1.47 1.81,1.66 h 10.1 a 0.78,0.78 0 0 1 0.78,0.59 l 0.63,1.85 a 1.44,1.44 0 0 0 1.37,1 h 4 a 1.44,1.44 0 0 0 1.37,-1 L 41.3,36.8 a 1.42,1.42 0 0 0 0,-0.91 l -1.24,-3.74 a 1.45,1.45 0 0 0 -1.37,-1 h -4 a 1.45,1.45 0 0 0 -1.37,1 l -0.77,2.32 a 0.82,0.82 0 0 1 -1,0.52 A 0.81,0.81 0 0 1 30.99,34.21 0.78,0.78 0 0 1 31,34 l 0.77,-2.32 a 3.09,3.09 0 0 1 2.93,-2.11 h 4 a 3.09,3.09 0 0 1 2.93,2.11 v 0 l 1.24,3.74 a 3.1,3.1 0 0 1 0,2 l -1.24,3.73 a 3.08,3.08 0 0 1 -2.93,2.12 h -4 A 3.08,3.08 0 0 1 31.77,41.15 L 31.33,39.83 H 21.51 A 0.82,0.82 0 0 1 20.96,39.61 L 18.27,37.16 A 0.87,0.87 0 0 1 18,36.55 0.83,0.83 0 0 1 18.25,35.87 Z"
+         id="path12" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.36871636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="cls-1"
+         cx="38.68"
+         cy="36.299999"
+         r="1.0700001"
+         id="circle14" />
+    </g>
+  </g>
+</svg>

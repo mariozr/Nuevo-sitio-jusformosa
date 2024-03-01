@@ -1,0 +1,87 @@
+(function () {
+
+	'use strict'
+
+
+	AOS.init({
+		duration: 800,
+		easing: 'slide',
+		once: true
+	});
+
+	var preloader = function() {
+
+		var loader = document.querySelector('.loader');
+		var overlay = document.getElementById('overlayer');
+
+		function fadeOut(el) {
+			el.style.opacity = 1;
+			(function fade() {
+				if ((el.style.opacity -= .1) < 0) {
+					el.style.display = "none";
+				} else {
+					requestAnimationFrame(fade);
+				}
+			})();
+		};
+
+		setTimeout(function() {
+			fadeOut(loader);
+			fadeOut(overlay);
+		}, 200);
+	};
+	preloader();
+
+	var tinyslider = function() {
+		var el = document.querySelectorAll('.testimonial-slider');
+		var el2 = document.querySelectorAll('.js-content-slider-full-width');
+
+		if ( el.length > 0 ) {
+			var slider = tns({
+				container: ".testimonial-slider",
+				items: 1,
+				axis: "horizontal",
+
+				controlsContainer: '#testimonial-nav',
+				swipeAngle: false,
+				speed: 700,
+				nav: true,
+				controls: true,
+				autoplay: true,
+				autoplayHoverPause: true,
+				autoplayTimeout: 3500,
+				autoplayButtonOutput: false
+			});
+		}
+		if ( el2.length > 0 ) {
+			var slider2 = tns({
+				container: ".js-content-slider-full-width",
+				items: 1,
+				axis: "horizontal",
+
+				controlsContainer: '#content-nav',
+				swipeAngle: false,
+				speed: 700,
+				nav: true,
+				controls: true,
+				autoplay: true,
+				autoplayHoverPause: true,
+				autoplayTimeout: 3500,
+				autoplayButtonOutput: false
+			});
+		}
+	}
+	tinyslider();
+
+	var lightbox = function() {
+		var lightboxVideo = GLightbox({
+			selector: '.glightbox'
+		});
+	};
+	lightbox();
+
+
+
+
+
+})()
